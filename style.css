@@ -1,6 +1,85 @@
-body{
-  background-color: #333;
+html, body{
+	margin:0;
+	padding:0;
+	height:100%;
+	-webkit-font-smoothing: antialiased;
+	overflow: auto;
 }
-#h{
+body{
+	/*background-color:#2e3a50;*/
+	font-family: 'Ubuntu', sans-serif;
+	margin:0;
+	padding:0;
+	height:100%;
+}
+#container{
+	min-height:100%;
+	position:relative;
+  text-align: center;
+}
+#widget{
+  display: inline-block;
+  text-align: center;
+  /*padding: 40px;*/
+  outline-style: solid;
+  /*outline-color: #ececec;*/
+	outline-color: darkgray;
+  width: 400px;
+  height: 500px;
+  margin-top: 40px;
+}
+#title{
+  text-transform: uppercase;
+  display: inline-block;
+  /*display: block;*/
+  width: 100px;
+  /*outline-style: solid;*/
+  color: #ececec;
+  transform: translateY(-15px);
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  /*background-color: #2e3a50;*/
+	background-color: cornsilk;
+  /*outline: aqua solid 2px;*/
+}
+#header{
+  /*color: dimgrey;*/
+	color: darkgray;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 40px;
+	padding-top:20%;
+	padding-bottom: 20%;
+}
+#text{
+  /*background-color: red;*/
+  height: 100%;
+  /*transform: translateY(-28px);*/
+}
+#form_button {
+  background: none;
+  /*border: solid 2px #F2F3EB;*/
+	border: solid 2px darkgray;
+  color: darkgray;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 0.875em;
+  font-weight: bold;
+  outline: none;
+  padding: 20px 35px;
+	letter-spacing: 2px;
+  text-transform: uppercase;
+  -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+#form_button:hover {
+  background: darkgrey;
   color: white;
+	border-color: darkgray;
+
 }
