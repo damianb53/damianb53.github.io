@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:900&subset=latin-ext');
 html, body{
 	margin:0;
 	padding:0;
 	height:100%;
 	-webkit-font-smoothing: antialiased;
-	overflow: auto;
+	overflow: hidden;
 }
 body{
 	/*background-color:#2e3a50;*/
+	background-color: #3A3A3A;
 	font-family: 'Ubuntu', sans-serif;
 	margin:0;
 	padding:0;
@@ -16,14 +18,16 @@ body{
 	min-height:100%;
 	position:relative;
   text-align: center;
+	margin-top: 10%;
 }
 #widget{
+	/*border-top: 100px solid white;*/
   display: inline-block;
   text-align: center;
   /*padding: 40px;*/
   outline-style: solid;
   /*outline-color: #ececec;*/
-	outline-color: darkgray;
+	outline-color: lightcyan;
   width: 400px;
   height: 500px;
   margin-top: 40px;
@@ -45,9 +49,13 @@ body{
 }
 #header{
   /*color: dimgrey;*/
-	color: darkgray;
-	font-family: 'Helvetica', Arial, sans-serif;
-	font-size: 40px;
+	/*color: darkgrey;*/
+	color: #3A3A3A;
+	text-shadow: 2px 2px lightcyan;
+	/*#654766*/
+	/*font-family: 'Helvetica', Arial, sans-serif;*/
+	font-family: 'Raleway', sans-serif;
+	font-size: 80px;
 	padding-top:20%;
 	padding-bottom: 20%;
 }
@@ -59,8 +67,8 @@ body{
 #form_button {
   background: none;
   /*border: solid 2px #F2F3EB;*/
-	border: solid 2px darkgray;
-  color: darkgray;
+	border: solid 2px lightcyan;
+  color: lightcyan;
   cursor: pointer;
   display: inline-block;
   font-family: 'Helvetica', Arial, sans-serif;
@@ -78,8 +86,8 @@ body{
 }
 
 #form_button:hover {
-  background: darkgrey;
-  color: white;
-	border-color: darkgray;
+  background: lightcyan;
+  color: #3A3A3A;
+	border-color: lightcyan;
 
 }
