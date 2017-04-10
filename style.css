@@ -16,17 +16,18 @@ body{
 #container{
 	min-height:100%;
 	position:relative;
-  text-align: center;
-	margin-top: 10%;
 }
 #widget{
-  display: inline-block;
+	position: absolute;
   text-align: center;
   outline-style: solid;
 	outline-color: lightcyan;
   width: 400px;
   height: 500px;
-  margin-top: 40px;
+
+	left:50%;
+	top:50%;
+	transform: translate(-50%,-50%);
 }
 #title{
   text-transform: uppercase;
@@ -44,6 +45,7 @@ body{
 	text-shadow: 2px 2px lightcyan;
 	font-family: 'Raleway', sans-serif;
 	font-size: 80px;
+	font-weight: lighter;
 	padding-top:20%;
 	padding-bottom: 20%;
 	letter-spacing: 3px;
