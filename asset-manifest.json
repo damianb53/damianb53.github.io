@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0eba1091.chunk.css",
-    "main.js": "/static/js/main.8b85dd57.chunk.js",
-    "main.js.map": "/static/js/main.8b85dd57.chunk.js.map",
+    "main.css": "/static/css/main.9373ecc2.chunk.css",
+    "main.js": "/static/js/main.bf4a2884.chunk.js",
+    "main.js.map": "/static/js/main.bf4a2884.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.a68ccf2f.chunk.js": "/static/js/2.a68ccf2f.chunk.js",
-    "static/js/2.a68ccf2f.chunk.js.map": "/static/js/2.a68ccf2f.chunk.js.map",
+    "static/js/2.ec93214b.chunk.js": "/static/js/2.ec93214b.chunk.js",
+    "static/js/2.ec93214b.chunk.js.map": "/static/js/2.ec93214b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d977d5fc76f6cb855843e6288d0f88d6.js": "/precache-manifest.d977d5fc76f6cb855843e6288d0f88d6.js",
+    "precache-manifest.ecd1d4d6dc7830c5595f4c7d8b4900ac.js": "/precache-manifest.ecd1d4d6dc7830c5595f4c7d8b4900ac.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0eba1091.chunk.css.map": "/static/css/main.0eba1091.chunk.css.map",
+    "static/css/main.9373ecc2.chunk.css.map": "/static/css/main.9373ecc2.chunk.css.map",
     "static/media/26188-notebooks-xps-15-9570-1280x720.webp": "/static/media/26188-notebooks-xps-15-9570-1280x720.f557ebec.webp",
     "static/media/RE1FU5k.png": "/static/media/RE1FU5k.452c9d0a.png",
-    "static/media/App.css": "/static/media/laptop46454.be803010.jpg"
+    "static/media/apple-macbook-12-inch-2017-01.jpg": "/static/media/apple-macbook-12-inch-2017-01.f4b7c917.jpg",
+    "static/media/App.css": "/static/media/laptop46454.be803010.jpg",
+    "static/media/m_air.jpg": "/static/media/m_air.90cf8563.jpg"
   }
 }
