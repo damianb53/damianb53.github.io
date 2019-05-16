@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc063ec0b5fc3f66a17a9cfe5d32c10a",
+    "revision": "8ac7657422a51fc5ef07d24e0a54f7fb",
     "url": "/index.html"
   },
   {
-    "revision": "1482198405dc1b179844",
-    "url": "/static/css/main.abf1831e.chunk.css"
+    "revision": "7dff7968ccbc7e1591ce",
+    "url": "/static/css/main.0c199d61.chunk.css"
   },
   {
-    "revision": "ef60339c4d2aed56294d",
-    "url": "/static/js/2.52a6492a.chunk.js"
+    "revision": "69e7b88403d277c70ea8",
+    "url": "/static/js/2.9575b4d5.chunk.js"
   },
   {
-    "revision": "1482198405dc1b179844",
-    "url": "/static/js/main.4a99c232.chunk.js"
+    "revision": "7dff7968ccbc7e1591ce",
+    "url": "/static/js/main.3545f8c8.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "452c9d0a4fb839250077ef925aad3064",
     "url": "/static/media/RE1FU5k.452c9d0a.png"
+  },
+  {
+    "revision": "7d5ef53322e2a5466286d6d9e66a76a1",
+    "url": "/static/media/acer_chromebook.7d5ef533.jpg"
   },
   {
     "revision": "be8030101c8c2c6f26bceb40692579fb",
